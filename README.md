@@ -7,7 +7,7 @@ Este projeto foi realizado por **Fred Cavalheiro** através da plataforma de ens
 
 ## 📁 Acesso Direto ao Projeto
 Para visualizar o código completo, as consultas Cypher e a lógica de implementação, acesse o arquivo principal:
-👉 **[Ver Notebook do Projeto (Código Python)](projeto_redes_sociais_grafo.ipynb)**
+👉 **[Ver Notebook do Projeto (Código Python)](/Projeto_Redes_Sociais_Grafo.ipynb)**
 
 ---
 
