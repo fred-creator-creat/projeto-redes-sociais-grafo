@@ -51,6 +51,8 @@ O projeto executa análises complexas através da linguagem **Cypher**, focando 
 
 ---
 
-## 📞 Contato
+## 📞 Contato e Conexão
 **Fred Cavalheiro**
-* Projeto desenvolvido para o Portfólio de Dados em Grafos.
+* 🎓 Técnico em Desenvolvimento de Sistemas (Senac) | Estudante de Análise de Dados
+* 🛠️ Em transição de carreira, focando em Python, Neo4j, Power BI e Excel.
+* 🔗 **[Conecte-se comigo no LinkedIn]([https://www.linkedin.com/in/SEU_PERFIL_AQUI](https://www.linkedin.com/in/fred-cavalheiro/))**
