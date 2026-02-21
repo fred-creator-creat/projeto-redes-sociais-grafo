@@ -5,6 +5,10 @@ Este projeto foi desenvolvido como parte do desafio prático de modelagem e impl
 ## 🎓 Idealização e Apoio
 Este projeto foi realizado por **Fred Cavalheiro** através da plataforma de ensino **[DIO (Digital Innovation One)](https://www.dio.me/)**, com o apoio e infraestrutura providenciados pela **[Neo4j](https://neo4j.com/)**.
 
+## 📁 Acesso Direto ao Projeto
+Para visualizar o código completo, as consultas Cypher e a lógica de implementação, acesse o arquivo principal:
+👉 **[Ver Notebook do Projeto (Código Python)](projeto_redes_sociais_grafo.ipynb)**
+
 ---
 
 ## 🛠️ Ecossistema e Ferramentas Utilizadas
@@ -17,10 +21,10 @@ O projeto foi construído utilizando as seguintes tecnologias:
 * **[Python](https://www.python.org/)**: Linguagem principal para integração e scripts.
 
 ### 📚 Bibliotecas Python Utilizadas
-* `neo4j`: Driver oficial para conexão com o banco de dados.
-* `pyvis`: Biblioteca para geração de visualizações interativas de grafos.
-* `IPython`: Para exibição de resultados dinâmicos no ambiente de desenvolvimento.
-* `kaggle`: Utilizada para a configuração e autenticação do ambiente de dados.
+* **[neo4j](https://pypi.org/project/neo4j/)**: Driver oficial para conexão e execução de queries Cypher.
+* **[pyvis](https://pyvis.readthedocs.io/)**: Biblioteca para geração de visualizações interativas de grafos.
+* **[IPython](https://ipython.org/)**: Ferramenta para exibição de resultados dinâmicos e mídias no notebook.
+* **[kaggle](https://github.com/Kaggle/kaggle-api)**: Biblioteca para integração e automação com a plataforma Kaggle.
 
 ---
 
