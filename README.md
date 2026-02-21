@@ -29,7 +29,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
 ---
 
 ## 📊 Modelo Conceitual
-Abaixo, o diagrama que define as entidades (**User**, **Post**, **Genre**, **Date**) e seus relacionamentos (**FOLLOWS**, **POSTED**, **LIKED**).
+Abaixo, o diagrama que define as entidades (**User**, **Post**, **Date**) e seus relacionamentos (**FOLLOWS**, **POSTED**, **LIKED**, **ON_DATE**).
 
 ![Modelo Conceitual](modelo_conceitual.png)
 
