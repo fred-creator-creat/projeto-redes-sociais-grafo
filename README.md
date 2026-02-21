@@ -53,9 +53,9 @@ O projeto executa análises complexas através da linguagem **Cypher**, focando 
 
 ## 📞 Contato e Conexão
 **Fred Cavalheiro**
-* 🎓 Técnico em Desenvolvimento de Sistemas (Senac)
-* 📊 Estudante de Análise de Dados (Python, Neo4j, Power BI e Excel)
-* 🚀 Em transição de carreira para a área de Tecnologia e Dados
+* 🔄 **Em transição de carreira:** De Vigilante para a área de Tecnologia.
+* 🎓 **Técnico em Desenvolvimento de Sistemas** (Formado pelo Senac).
+* 📚 **Estudante de:** Machine Learning e Análise de Dados (Python, Neo4j, Power BI e Excel).
 * 🔗 **[Meu Perfil no LinkedIn](https://www.linkedin.com/in/fred-cavalheiro/)**
 
 ---
